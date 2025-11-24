@@ -48,12 +48,30 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
 
 <b>My GitHub Stats</b>
 
-<a align="center" href="http://www.github.com/LeonardoG2005"><img src="https://github-readme-stats.vercel.app/api?username=LeonardoG2005&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="LeonardoG2005's GitHub stats" /></a>
+<!-- Main Stats -->
+<a align="center" href="https://github.com/LeonardoG2005">
+  <img 
+    src="https://github-readme-stats-godkingjay.vercel.app/api?username=LeonardoG2005&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true" 
+    alt="LeonardoG2005's GitHub Stats" 
+  />
+</a>
+
+<br/><br/>
 
 <div style="display: flex; justify-content: space-between; gap: 50px;">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoG2005&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats" style="height: 180px;"/>
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=LeonardoG2005&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" 
+    alt="GitHub Streak Stats" 
+    style="height: 180px;"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoG2005&hide_border=true&include_all_commits=false&count_private=true&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=0f172a" alt="Top Languages" style="height: 180px;"/>
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=LeonardoG2005&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=0f172a&hide_border=true" 
+    alt="Top Languages" 
+    style="height: 180px;"
+  />
 
 </div>
