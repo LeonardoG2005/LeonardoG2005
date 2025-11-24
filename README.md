@@ -44,34 +44,36 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
 
 ---
 
-## Badges
+### Badges
 
 <b>My GitHub Stats</b>
 
-<!-- Main Stats (oficial instance) -->
-<a href="https://github.com/LeonardoG2005">
+<!-- Main Stats -->
+<a align="center" href="https://github.com/LeonardoG2005">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=LeonardoG2005&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" 
-    alt="LeonardoG2005's GitHub Stats"
-/>
+    src="https://vercel-woad-seven.vercel.app/api?username=LeonardoG2005&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true" 
+    alt="LeonardoG2005's GitHub Stats" 
+  />
 </a>
 
 <br/><br/>
 
-<!-- Table layout because GitHub blocks CSS styling -->
 <table>
   <tr>
     <td>
+      <!-- Streak Stats -->
       <img 
-        src="https://streak-stats.demolab.com?user=LeonardoG2005&theme=tokyonight&hide_border=true" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoG2005&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" 
         alt="GitHub Streak Stats" 
       />
     </td>
     <td>
+      <!-- Top Languages -->
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoG2005&layout=compact&theme=tokyonight&hide_border=true" 
-        alt="Top Languages"
+        src="https://vercel-woad-seven.vercel.app/api/top-langs/?username=LeonardoG2005&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=0f172a&hide_border=true" 
+        alt="Top Languages" 
       />
     </td>
   </tr>
 </table>
+
