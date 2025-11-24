@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
-
 <div align="center" style="margin-top: 10px; margin-bottom: 0px;">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
@@ -109,7 +107,3 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
 </table>
 
 </div>
-
-<p>&nbsp;</p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
