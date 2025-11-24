@@ -41,10 +41,10 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
 [![Languages](https://skillicons.dev/icons?i=python,ts,java,js,dart)](https://skillicons.dev)
 
 <!-- Frontend -->
-[![Frontend](https://skillicons.dev/icons?i=tailwind,react,angular,html,css,nextjs,redux,flutter)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=tailwind,react,angular,html,css,nextjs,redux,flutter,astro)](https://skillicons.dev)
 
 <!-- Backend -->
-[![Backend](https://skillicons.dev/icons?i=spring,nodejs,express,nestjs)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,reflex)](https://skillicons.dev)
 
 <h3 align="left">Databases:</h3>
 
@@ -52,7 +52,7 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
 
 <h3 align="left">Machine Learning & Data Science:</h3>
 
-[![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,python)](https://skillicons.dev)
+[![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,julia,r,googlecloud,azure)](https://skillicons.dev)
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -60,14 +60,21 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Seaborn-2e6e8e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ### Connect with me 
 <a href="https://www.leetcode.com/leo_tuvstarr" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/pholcast" target="blank">
+<a href="https://linkedin.com/in/leotuvstarr" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+<a href="https://discord.com/users/1013299060825923644" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="discord" height="30" width="40" />
+</a>
+<a href="https://instagram.com/leo.tuvstarr" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
 </a>
 
 <p>&nbsp;</p>
