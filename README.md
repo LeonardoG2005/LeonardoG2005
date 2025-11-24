@@ -13,12 +13,13 @@
 
 
 </h1>
-I'm a fourth-year Software Engineering student with a solid foundation in OOP, clean code, design patterns, software architecture, DevOps, algorithms, databases, and full-stack web development. Although I work across the stack, my core interest lies in backend engineering and data-centric systems.
+I'm a fourth-year Software Engineering student focused on building reliable, scalable software and modern web applications. Although I work across the stack, my core interest lies in backend engineering and data-centric systems.
+
+<p>&nbsp;</p>
 
 Alongside my academic training, I independently study Machine Learning, Data Science, and Data Engineering, earning several certificates and building personal projects involving data pipelines, model development, and deployment workflows. I'm driven by applying engineering principles to create scalable, reliable solutions and continuously expanding my technical expertise.
 
-* 🖥️  See my portfolio at ... proximamente...
-* 🚀  I'm currently working on dormir.
+🚀 I'm currently working on **[Not avaiable yet](LINK_AQUI)** — a 2D open-world game built with Unity and C#. The goal is to create a multiplayer experience that helps players learn languages while we gain hands-on experience with the full software development lifecycle, from design to deployment and long-term maintenance.
 
 <p>&nbsp;</p>
 
@@ -33,7 +34,9 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
 
 <p>&nbsp;</p>
 
-<h3 align="left">Web Development:</h3>
+<div align="center">
+
+<h3 align="center">Web Development:</h3>
 
 <!-- Languages -->
 [![Languages](https://skillicons.dev/icons?i=python,ts,java,js,dart)](https://skillicons.dev)
@@ -44,22 +47,28 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
 <!-- Backend -->
 [![Backend](https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,reflex)](https://skillicons.dev)
 
-<h3 align="left">Databases:</h3>
+---
+
+<h3 align="center">Databases:</h3>
 
 [![Databases](https://skillicons.dev/icons?i=firebase,postgres,mysql,supabase,mongodb)](https://skillicons.dev)
 
-<h3 align="left">Machine Learning & Data Science:</h3>
+---
+
+<h3 align="center">Machine Learning & Data Science:</h3>
 
 [![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,julia,r,googlecloud,azure)](https://skillicons.dev)
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io-badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Seaborn-2e6e8e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
+
+<p>&nbsp;</p>
 
 ### Connect with me 
 <a href="https://www.leetcode.com/leo_tuvstarr" target="blank">
@@ -75,6 +84,9 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
 </a>
 
+
+</div>
+
 <p>&nbsp;</p>
 
 <div align="center" style="margin-top: 50px; margin-bottom: 0px;">
@@ -86,6 +98,8 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
 </h1>
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+
 
 <div align="center">
 
