@@ -1,5 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> My name is Leonardo </h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<div align="center" style="margin-top: 25px; margin-bottom: 25px;">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 
 I'm a fourth-year Software Engineering student with a solid foundation in OOP, clean code, design patterns, software architecture, DevOps, algorithms, databases, and full-stack web development. Although I work across the stack, my core interest lies in backend engineering and data-centric systems.
 
@@ -43,7 +47,9 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
 <a href="https://www.leetcode.com/leo_tuvstarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pholcast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<div align="center" style="margin-top: 50px; margin-bottom: 35px;">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ### Badges
 
