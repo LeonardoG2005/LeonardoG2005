@@ -13,7 +13,9 @@
 
 
 </h1>
-I'm a fourth-year Software Engineering student focused on building reliable, scalable software and modern web applications. Although I work across the stack, my core interest lies in backend engineering and data-centric systems.
+I'm a fourth-year Software Engineering student focused on building reliable, scalable software and modern web applications. Although I work across the stack, my core interest lies in backend engineering and data-centric systems. > <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>
+👉 Click here to view my portfolio
+</a>
 
 <p>&nbsp;</p>
 
@@ -98,7 +100,6 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
 </h1>
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 
 <div align="center">
@@ -119,5 +120,3 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
     </td>
   </tr>
 </table>
-
-</div>
