@@ -44,10 +44,10 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
 [![Languages](https://skillicons.dev/icons?i=python,ts,java,js,dart)](https://skillicons.dev)
 
 <!-- Frontend -->
-[![Frontend](https://skillicons.dev/icons?i=tailwind,react,angular,html,css,nextjs,redux,flutter,astro)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=tailwind,angular,html,css,nextjs,flutter)](https://skillicons.dev)
 
 <!-- Backend -->
-[![Backend](https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,reflex)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=spring,nodejs,nestjs)](https://skillicons.dev)
 
 ---
 
@@ -59,14 +59,12 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
 
 <h3 align="center">Machine Learning & Data Science:</h3>
 
-[![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,julia,r,googlecloud,azure)](https://skillicons.dev)
+[![ML](https://skillicons.dev/icons?i=tensorflow,sklearn,julia,r,googlecloud)](https://skillicons.dev)
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-2e6e8e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
