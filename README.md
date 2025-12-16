@@ -83,7 +83,9 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
 <a href="https://instagram.com/leo.tuvstarr" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
 </a>
-
+<a href="https://open.spotify.com/user/31fg4nwn5dftilhw7r7e26of454i" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="spotify" height="30" width="40" />
+</a>
 
 </div>
 
