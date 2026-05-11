@@ -1,28 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1200 120" preserveAspectRatio="none" style="overflow:hidden;">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1200 44" preserveAspectRatio="none" style="overflow:hidden;">
   <defs>
     <clipPath id="clip-above">
       <animateTransform attributeName="transform" type="translate" from="0,0" to="600,0" dur="12s" repeatCount="indefinite"/>
       <path d="
         M -1200 0
-        Q -1050 100 -900 60
-        Q -750  20  -600 60
-        Q -450 110  -300 60
-        Q -150  10   0   60
-        Q  150 110   300 60
-        Q  450  10   600 60
-        Q  750 110   900 60
-        Q 1050  10  1200 60
-        Q 1350 110  1500 60
-        Q 1650  10  1800 60
-        Q 1950 110  2100 60
-        Q 2250  10  2400 60
+        Q -1050 42  -900 22
+        Q -750   2  -600 22
+        Q -450 42  -300 22
+        Q -150   2    0  22
+        Q  150 42   300 22
+        Q  450  2   600 22
+        Q  750 42   900 22
+        Q 1050  2  1200 22
+        Q 1350 42  1500 22
+        Q 1650  2  1800 22
+        Q 1950 42  2100 22
+        Q 2250  2  2400 22
         L 2400 0
         Z
       "/>
     </clipPath>
   </defs>
 
-  <rect x="0" y="0" width="100%" height="120"
-        fill="#47006e" opacity="0.60"
+  <rect x="0" y="0" width="100%" height="44"
+        fill="#47006e" opacity="0.70"
         clip-path="url(#clip-above)"/>
 </svg>
