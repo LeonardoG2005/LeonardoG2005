@@ -105,18 +105,25 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
   <tr>
     <td>
       <img 
-        src="https://vercel-woad-seven.vercel.app/api?username=LeonardoG2005&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true" 
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=LeonardoG2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" 
         alt="LeonardoG2005's GitHub Stats" 
       />
     </td>
     <td>
       <img 
-        src="https://vercel-woad-seven.vercel.app/api/top-langs/?username=LeonardoG2005&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=0f172a&hide_border=true" 
-        alt="Top Languages" 
+        src="https://streak-stats.demolab.com?user=LeonardoG2005&theme=tokyonight&hide_border=true&background=0D1117" 
+        alt="GitHub Streak" 
       />
     </td>
   </tr>
 </table>
+
+<img 
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LeonardoG2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" 
+  alt="Top Languages" 
+/>
+
+</div>
 
 
 
