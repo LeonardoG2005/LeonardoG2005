@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="40" viewBox="0 0 1200 40">
+  <defs>
+    <filter id="glow" x="-50%" y="-500%" width="200%" height="1100%" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.2" result="b1"/>
+      <feColorMatrix in="b1" type="matrix"
+        values="1 0 0 0 0
+                0 1 0 0 0
+                0 0 1 0 0
+                0 0 0 0.55 0" result="g1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="6.5" result="b2"/>
+      <feColorMatrix in="b2" type="matrix"
+        values="1 0 0 0 0
+                0 1 0 0 0
+                0 0 1 0 0
+                0 0 0 0.18 0" result="g2"/>
+      <feMerge>
+        <feMergeNode in="g2"/>
+        <feMergeNode in="g1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .drift { animation: drift 18s linear infinite; }
+    @keyframes drift {
+      from { transform: translate(0px, 0px); }
+      to   { transform: translate(600px, 0px); }
+    }
+    .wave {
+      fill: none;
+      stroke: #a855f7;
+      stroke-width: 2.6;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      vector-effect: non-scaling-stroke;
+      filter: url(#glow);
+      opacity: 0.95;
+    }
+  </style>
+
+  <g class="drift">
+    <path class="wave"
+      d="M -1200 20
+         Q -1050 15 -900 20
+         T -600 20
+         T -300 20
+         T 0 20
+         T 300 20
+         T 600 20
+         T 900 20
+         T 1200 20
+         T 1500 20
+         T 1800 20
+         T 2100 20
+         T 2400 20" />
+  </g>
+</svg>
