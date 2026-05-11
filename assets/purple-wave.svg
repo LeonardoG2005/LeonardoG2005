@@ -3,16 +3,17 @@
     <style>
       .wave { animation: drift 8s linear infinite; }
       @keyframes drift {
-        from { transform: translateX(0); }
+        from { transform: translateX(0px); }
         to   { transform: translateX(-600px); }
       }
     </style>
   </defs>
   <g class="wave">
     <path fill="#47006e" opacity="0.70" d="
-      M0 0 Q150 60 300 30 Q450 0 600 30 Q750 60 900 30 Q1050 0 1200 30
-      Q1350 60 1500 30 Q1650 0 1800 30
-      L1800 0 Z
+      M 0 30 Q 75 0 150 30 Q 225 60 300 30 Q 375 0 450 30 Q 525 60 600 30
+      Q 675 0 750 30 Q 825 60 900 30 Q 975 0 1050 30 Q 1125 60 1200 30
+      Q 1275 0 1350 30 Q 1425 60 1500 30 Q 1575 0 1650 30 Q 1725 60 1800 30
+      L 1800 0 L 0 0 Z
     "/>
   </g>
 </svg>
