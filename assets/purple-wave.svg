@@ -1,8 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1200 60" preserveAspectRatio="none" style="overflow: hidden;">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
   <defs>
-    
+    <style>
+      .wave { animation: drift 5s linear infinite; }
+      @keyframes drift {
+        from { transform: translateX(0px); }
+        to   { transform: translateX(-600px); }
+      }
+    </style>
   </defs>
-  <g style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-    <path fill="#47006e" opacity="0.70" d="&#10;      M 0 30&#10;      Q 75 60  150 30&#10;      Q 225 0   300 30&#10;      Q 375 60  450 30&#10;      Q 525 0   600 30&#10;      Q 675 60  750 30&#10;      Q 825 0   900 30&#10;      Q 975 60 1050 30&#10;      Q 1125 0 1200 30&#10;      Q 1275 60 1350 30&#10;      Q 1425 0  1500 30&#10;      Q 1575 60 1650 30&#10;      Q 1725 0  1800 30&#10;      L 1800 60&#10;      L 0 60&#10;      Z&#10;    " style="fill:rgb(71, 0, 110);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.7;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <g class="wave">
+    <path fill="#47006e" opacity="0.70" d="
+      M 0 30
+      Q 75 60  150 30
+      Q 225 0   300 30
+      Q 375 60  450 30
+      Q 525 0   600 30
+      Q 675 60  750 30
+      Q 825 0   900 30
+      Q 975 60 1050 30
+      Q 1125 0 1200 30
+      Q 1275 60 1350 30
+      Q 1425 0  1500 30
+      Q 1575 60 1650 30
+      Q 1725 0  1800 30
+      L 1800 60
+      L 0 60
+      Z
+    "/>
   </g>
 </svg>
