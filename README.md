@@ -70,22 +70,19 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
 
 <p>&nbsp;</p>
 
-### Connect with me 
-<a href="https://www.leetcode.com/leo_tuvstarr" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/leotuvstarr" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-<a href="https://discord.com/users/1013299060825923644" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="discord" height="30" width="40" />
-</a>
-<a href="https://instagram.com/leo.tuvstarr" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-</a>
-<a href="https://open.spotify.com/user/31fg4nwn5dftilhw7r7e26of454i" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="spotify" height="30" width="40" />
-</a>
+<div align="center">
+
+### Connect with me
+
+<table>
+  <tr>
+    <td><a href="https://www.leetcode.com/leo_tuvstarr"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a></td>
+    <td><a href="https://linkedin.com/in/leotuvstarr"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a></td>
+    <td><a href="https://discord.com/users/1013299060825923644"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="30" width="40" /></a></td>
+    <td><a href="https://instagram.com/leo.tuvstarr"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a></td>
+    <td><a href="https://open.spotify.com/user/31fg4nwn5dftilhw7r7e26of454i"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" height="30" width="40" /></a></td>
+  </tr>
+</table>
 
 </div>
 
