@@ -117,3 +117,7 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
     </td>
   </tr>
 </table>
+
+
+
+<p align="center"> <img src="assets/purple-wave.svg" width="100%" /> </p>
