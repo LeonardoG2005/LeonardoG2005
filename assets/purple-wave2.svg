@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1200 90" preserveAspectRatio="none" style="overflow: hidden;">
+  <defs>
+    <filter id="glow" x="-20%" y="-200%" width="140%" height="500%" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.5" result="b1"/>
+      <feColorMatrix in="b1" type="matrix" values="0.28 0 0 0 0&#10;                0    0 0 0 0&#10;                0    0 0.43 0 0&#10;                0    0 0 0.7 0" result="g1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="7" result="b2"/>
+      <feColorMatrix in="b2" type="matrix" values="0.28 0 0 0 0&#10;                0    0 0 0 0&#10;                0    0 0.43 0 0&#10;                0    0 0 0.25 0" result="g2"/>
+      <feMerge>
+        <feMergeNode in="g2"/>
+        <feMergeNode in="g1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="clip-above">
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="600,0" dur="12s" repeatCount="indefinite"/>
+      <path d="&#10;        M -1200 0&#10;        Q -1050 62  -900 45&#10;        Q -750  -8  -600 45&#10;        Q -450  88  -300 45&#10;        Q -150  -8   0   45&#10;        Q  150  88   300 45&#10;        Q  450  -8   600 45&#10;        Q  750  88   900 45&#10;        Q  1050 -8  1200 45&#10;        Q  1350 88  1500 45&#10;        Q  1650 -8  1800 45&#10;        Q  1950 88  2100 45&#10;        Q  2250 -8  2400 45&#10;        L 2400 0&#10;        Z&#10;      "/>
+    </clipPath>
+    
+  </defs>
+
+  <rect x="0" y="0" width="100%" height="90" fill="#47006e" opacity="0.35" clip-path="url(#clip-above)" style="fill:rgb(71, 0, 110);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.35;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <path d="&#10;    M -1200 45&#10;    Q -1050 62  -900 45&#10;    Q -750  -8  -600 45&#10;    Q -450  88  -300 45&#10;    Q -150  -8   0   45&#10;    Q  150  88   300 45&#10;    Q  450  -8   600 45&#10;    Q  750  88   900 45&#10;    Q  1050 -8  1200 45&#10;    Q  1350 88  1500 45&#10;    Q  1650 -8  1800 45&#10;    Q  1950 88  2100 45&#10;    Q  2250 -8  2400 45&#10;  " style="fill:none;stroke:rgb(71, 0, 110);color:rgb(0, 0, 0);stroke-width:3.2px;stroke-linecap:round;stroke-linejoin:round;opacity:100;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+</svg>
