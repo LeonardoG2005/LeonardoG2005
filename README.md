@@ -21,7 +21,7 @@ I'm a fourth-year Software Engineering student focused on building reliable, sca
 
 Alongside my academic training, I independently study Machine Learning, Data Science, and Data Engineering, earning several certificates and building personal projects involving data pipelines, model development, and deployment workflows. I'm driven by applying engineering principles to create scalable, reliable solutions and continuously expanding my technical expertise.
 
-🚀 I'm currently working on **[LinguWorld](https://github.com/LeonardoG2005/LinguWorld)** — a 2D open-world game built with Unity and C#. The goal is to create a multiplayer experience that helps players learn languages while we gain hands-on experience with the full software development lifecycle, from design to deployment and long-term maintenance.
+🚀 I'm currently working on  **[LinguWorld](https://github.com/LeonardoG2005/LinguWorld)**  <img src="assets/gatoLinguWorld.ico" width="19">  a 2D open-world game built with Unity and C#. The goal is to create a multiplayer experience that helps players learn languages while we gain hands-on experience with the full software development lifecycle, from design to deployment and long-term maintenance.
 
 <p>&nbsp;</p>
 
