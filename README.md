@@ -55,6 +55,9 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
 
 [![Databases](https://skillicons.dev/icons?i=firebase,postgres,mysql,supabase,mongodb)](https://skillicons.dev)
 
+<p>
+  <img src="https://img.shields.io/badge/Progress_OpenEdge-5C2D91?style=for-the-badge&logo=progress&logoColor=white" />
+</p>
 ---
 
 <h3 align="center">Machine Learning & Data Science:</h3>
