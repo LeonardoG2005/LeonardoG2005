@@ -13,7 +13,7 @@
 
 
 </h1>
-I'm a fifth year Software Engineering student focused on building reliable, scalable software and modern web applications. Although I work across the stack, my core interest lies in backend engineering and data-centric systems. > <a href="https://leoportfolio-murex.vercel.app/" download>
+I'm a fifth year Software Engineering student focused on building reliable, scalable software and modern web applications. Although I work across the stack, my core interest lies in backend engineering and data-centric systems. > <a href="https://leo-portfolio-zeta.vercel.app/" download>
 👉 Click here to view my portfolio
 </a>
 
@@ -70,6 +70,7 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
 </p>
 
 <p>&nbsp;</p>
