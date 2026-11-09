@@ -38,13 +38,16 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
 
 <div align="center">
 
-<h3 align="center">Web Development:</h3>
+<h3 align="center">Web Development and DevOps:</h3>
 
 <!-- Languages -->
 [![Languages](https://skillicons.dev/icons?i=python,ts,java,js,dart)](https://skillicons.dev)
 
 <!-- Frontend -->
 [![Frontend](https://skillicons.dev/icons?i=tailwind,angular,html,css,nextjs,flutter)](https://skillicons.dev)
+
+<!-- DevOps -->
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,aws,gcp)](https://skillicons.dev)
 
 <!-- Backend -->
 [![Backend](https://skillicons.dev/icons?i=spring,nodejs,nestjs)](https://skillicons.dev)
@@ -63,7 +66,7 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
 
 <h3 align="center">Machine Learning & Data Science:</h3>
 
-[![ML](https://skillicons.dev/icons?i=tensorflow,sklearn,julia,r,googlecloud)](https://skillicons.dev)
+[![ML](https://skillicons.dev/icons?i=tensorflow,sklearn,julia,r)](https://skillicons.dev)
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -71,6 +74,7 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 </p>
 
 <p>&nbsp;</p>
@@ -100,8 +104,8 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
     </td>
     <td>
       <img
-        src="./profile/streak.svg"
-        alt="LeonardoG2005's GitHub Streak"
+        src="https://cdn.jsdelivr.net/gh/LeonardoG2005/LeonardoG2005@main/profile/streak.svg"
+        alt="LeonardoG2005 GitHub Streak"
       />
     </td>
   </tr>
