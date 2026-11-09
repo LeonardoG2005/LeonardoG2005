@@ -99,9 +99,9 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
       />
     </td>
     <td>
-      <img 
-        src="https://streak-stats.demolab.com?user=LeonardoG2005&theme=tokyonight&hide_border=true&background=0D1117" 
-        alt="GitHub Streak" 
+      <img
+        src="./profile/streak.svg"
+        alt="LeonardoG2005's GitHub Streak"
       />
     </td>
   </tr>
