@@ -1,4 +1,4 @@
-<div align="center" style="margin-top: 10px; margin-bottom: 0px;">
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/31f3e1fe-dc1c-4458-bf5f-634c166465a2" /><div align="center" style="margin-top: 10px; margin-bottom: 0px;">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
@@ -13,7 +13,7 @@
 
 
 </h1>
-I'm a fifth year Software Engineering student focused on building reliable, scalable software and modern web applications. Although I work across the stack, my core interest lies in backend engineering and data-centric systems. > <a href="https://leo-portfolio-zeta.vercel.app/" download>
+I'm a fifth year Software Engineering student focused on building reliable, scalable software and modern web applications. Although I work across the stack, my core interest lies in backend engineering and data-centric systems. > <a href="https://leonardog2005.github.io/3d_Portfolio/" download>
 👉 Click here to view my portfolio
 </a>
 
