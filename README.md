@@ -41,7 +41,7 @@
 
 #
 
-<a target="_blank"><img align="left" height="400" width="400" alt="inspectocat" src="assets/inspectocat.jpg"></a>
+<a target="_blank"><img align="left" height="400" width="400" alt="inspectocat" src="assets/inspectocat.png"></a>
 <br/>
 
 ### **𝚃𝙾𝙾𝙻𝚂 𝙰𝙽𝙳 𝚃𝙴𝙲𝙷𝙽𝙾𝙻𝙾𝙶𝙸𝙴𝚂**  <img src="assets/gatoLinguWorld.ico" width="19">:
