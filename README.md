@@ -46,7 +46,6 @@
 
 ### **𝚃𝙾𝙾𝙻𝚂 𝙰𝙽𝙳 𝚃𝙴𝙲𝙷𝙽𝙾𝙻𝙾𝙶𝙸𝙴𝚂**  <img src="assets/gatoLinguWorld.ico" width="19">:
 <br/>
-<br/>
 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/></code>&nbsp;&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code>&nbsp;&nbsp;
