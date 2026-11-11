@@ -89,6 +89,7 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pug/pug-original.svg" alt="pug" width="40" height="40"/></code>&nbsp;&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" alt="fastify" width="40" height="40"/></code>&nbsp;&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/></code>&nbsp;&nbsp;
+
 <br/>
 <img src="https://img.shields.io/badge/Progress_OpenEdge-5C2D91?style=for-the-badge&logo=progress&logoColor=white" />
 <br/>
