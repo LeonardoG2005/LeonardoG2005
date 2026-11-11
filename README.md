@@ -13,71 +13,94 @@
 
 
 </h1>
-I'm a fifth year Software Engineering student focused on building reliable, scalable software and modern web applications. Although I work across the stack, my core interest lies in backend engineering and data-centric systems. > <a href="https://leonardog2005.github.io/3d_Portfolio/" download>
-👉 Click here to view my portfolio
-</a>
 
-<p>&nbsp;</p>
+<div>
+ <img align="right" alt="coding" width="400" src="assets/daftpunktocat.gif">
+</div>
 
-Alongside my academic training, I independently study Machine Learning, Data Science, and Data Engineering, earning several certificates and building personal projects involving data pipelines, model development, and deployment workflows. I'm driven by applying engineering principles to create scalable, reliable solutions and continuously expanding my technical expertise.
+> #### A fifth year Software Engineering student focused on building reliable, scalable software and modern web applications. I believe in producing more by combining broad, generalized knowledge with the right use of Artificial Intelligence.
+<span style="font-size: 18px">
 
-🚀 I'm currently working on  **[LinguWorld](https://github.com/LeonardoG2005/LinguWorld)**  <img src="assets/gatoLinguWorld.ico" width="19">  a 2D open-world game built with Unity and C#. The goal is to create a multiplayer experience that helps players learn languages while we gain hands-on experience with the full software development lifecycle, from design to deployment and long-term maintenance.
+<br>
+<p >
 
-<p>&nbsp;</p>
+- 👨‍🎓 University of Medellin
 
-<h1 align= "center" style="padding: 20px 0;">
-  Technologies I’ve learned so far
-  <img 
-    src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" 
-    height="25"
-    style="vertical-align: middle; margin-left: 10px;"
-  />
-</h1>
+- 🔍 Core interest in backend engineering and data-centric systems
 
-<p>&nbsp;</p>
+- 📚 I Independently study Machine Learning and Data Engineering
 
-<div align="center">
+- 🤝🏼 Open for Collaborations
+  
+<br>
 
-<h3 align="center">Web Development and DevOps:</h3>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leotuvstarr/) [![Connect on Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leosowilo2005@gmail.com)    [![Portfolio (Currently working on!)](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://leonardog2005.github.io/3d_Portfolio/)
+ </p>
+</span>
+<div align='center'>
 
-<!-- Languages -->
-[![Languages](https://skillicons.dev/icons?i=python,ts,java,js,dart)](https://skillicons.dev)
+#
 
-<!-- Frontend -->
-[![Frontend](https://skillicons.dev/icons?i=tailwind,angular,html,css,nextjs,flutter)](https://skillicons.dev)
+<a target="_blank"><img align="left" height="400" width="400" alt="inspectocat" src="assets/inspectocat.jpg"></a>
+<br/>
 
-<!-- DevOps -->
-[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,aws,gcp)](https://skillicons.dev)
+### **𝚃𝙾𝙾𝙻𝚂 𝙰𝙽𝙳 𝚃𝙴𝙲𝙷𝙽𝙾𝙻𝙾𝙶𝙸𝙴𝚂**  <img src="assets/gatoLinguWorld.ico" width="19">:
+<br/>
+<br/>
 
-<!-- Backend -->
-[![Backend](https://skillicons.dev/icons?i=spring,nodejs,nestjs)](https://skillicons.dev)
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" alt="julia" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="r" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="apache airflow" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Golang" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" alt="seaborn" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pug/pug-original.svg" alt="pug" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" alt="fastify" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/></code>&nbsp;&nbsp;
+<br/>
 
----
+<img src="https://img.shields.io/badge/Progress_OpenEdge-5C2D91?style=for-the-badge&logo=progress&logoColor=white" />
+<br/>
 
-<h3 align="center">Databases:</h3>
+#
 
-[![Databases](https://skillicons.dev/icons?i=firebase,postgres,mysql,supabase,mongodb)](https://skillicons.dev)
-
-<p>
-  <img src="https://img.shields.io/badge/Progress_OpenEdge-5C2D91?style=for-the-badge&logo=progress&logoColor=white" />
-</p>
-
----
-
-<h3 align="center">Machine Learning & Data Science:</h3>
-
-[![ML](https://skillicons.dev/icons?i=tensorflow,sklearn,julia,r)](https://skillicons.dev)
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-</p>
-
-<p>&nbsp;</p>
+</div>
+<br/><br/>
 
 <p>&nbsp;</p>
 
@@ -117,4 +140,3 @@ Alongside my academic training, I independently study Machine Learning, Data Sci
 />
 
 </div>
-
