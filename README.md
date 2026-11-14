@@ -24,7 +24,7 @@
 <br>
 <p >
 
-- 👨‍🎓 University of Medellin
+- 👨‍🎓 Systems Engineering Undergraduate
 
 - 🔍 Core interest in backend engineering and data-centric systems
 
