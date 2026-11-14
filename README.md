@@ -117,7 +117,7 @@
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats-eight-theta.vercel.app/api?username=LeonardoG2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" 
+        src="https://cdn.jsdelivr.net/gh/LeonardoG2005/LeonardoG2005@main/profile/stats.svg"
         alt="LeonardoG2005's GitHub Stats" 
       />
     </td>
@@ -131,7 +131,7 @@
 </table>
 
 <img 
-  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LeonardoG2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" 
+  src="https://cdn.jsdelivr.net/gh/LeonardoG2005/LeonardoG2005@main/profile/languages.svg"
   alt="Top Languages" 
 />
 
