@@ -96,9 +96,7 @@
 #
 
 </div>
-<br/><br/>
 
-<p>&nbsp;</p>
 
 <div align="center" style="margin-top: 50px; margin-bottom: 0px;">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
