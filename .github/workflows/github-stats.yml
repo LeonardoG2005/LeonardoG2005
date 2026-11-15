@@ -10,6 +10,7 @@ on:
   push:
     paths:
       - ".github/workflows/github-stats.yml"
+      - "scripts/stats-cards.mjs"
 
 permissions:
   contents: write
@@ -22,36 +23,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Stats SVG
-        uses: lowlighter/metrics@latest
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: LeonardoG2005
-          base: header, activity, community, repositories
-          config_timezone: America/Bogota
-          config_output: svg
-          output_action: none
-          filename: profile/stats.svg
+          node-version: 20
 
-      - name: Generate Top Languages SVG
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: LeonardoG2005
-          base: ""
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          config_timezone: America/Bogota
-          config_output: svg
-          output_action: none
-          filename: profile/languages.svg
-
-      # With output_action: none, metrics saves renders outside the checkout.
-      - name: Copy renders into the repository
-        run: |
-          cp /metrics_renders/profile/stats.svg profile/stats.svg
-          cp /metrics_renders/profile/languages.svg profile/languages.svg
+      - name: Generate GitHub Stats and Top Languages SVGs
+        run: node scripts/stats-cards.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+          OUT_DIR: profile
 
       - name: Commit stats
         run: |

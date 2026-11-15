@@ -113,26 +113,11 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img 
-        src="profile/stats.svg"
-        alt="LeonardoG2005's GitHub Stats" 
-      />
-    </td>
-    <td>
-      <img
-        src="profile/streak.svg"
-        alt="LeonardoG2005 GitHub Streak"
-      />
-    </td>
-  </tr>
-</table>
+<img src="profile/streak.svg" alt="LeonardoG2005 GitHub Streak" />
 
-<img 
-  src="profile/languages.svg"
-  alt="Top Languages" 
-/>
+<br/>
+
+<img src="profile/stats.svg" alt="LeonardoG2005's GitHub Stats" />&nbsp;&nbsp;
+<img src="profile/languages.svg" alt="Top Languages" />
 
 </div>
