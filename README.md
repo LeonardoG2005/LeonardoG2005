@@ -117,13 +117,13 @@
   <tr>
     <td>
       <img 
-        src="https://cdn.jsdelivr.net/gh/LeonardoG2005/LeonardoG2005@main/profile/stats.svg"
+        src="profile/stats.svg"
         alt="LeonardoG2005's GitHub Stats" 
       />
     </td>
     <td>
       <img
-        src="https://cdn.jsdelivr.net/gh/LeonardoG2005/LeonardoG2005@main/profile/streak.svg"
+        src="profile/streak.svg"
         alt="LeonardoG2005 GitHub Streak"
       />
     </td>
@@ -131,7 +131,7 @@
 </table>
 
 <img 
-  src="https://cdn.jsdelivr.net/gh/LeonardoG2005/LeonardoG2005@main/profile/languages.svg"
+  src="profile/languages.svg"
   alt="Top Languages" 
 />
 
