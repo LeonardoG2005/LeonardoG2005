@@ -30,7 +30,6 @@ jobs:
           base: header, activity, community, repositories
           config_timezone: America/Bogota
           config_output: svg
-          config_theme: github-dark
           output_action: none
           filename: profile/stats.svg
 
@@ -45,9 +44,14 @@ jobs:
           plugin_languages_sections: most-used
           config_timezone: America/Bogota
           config_output: svg
-          config_theme: github-dark
           output_action: none
           filename: profile/languages.svg
+
+      # With output_action: none, metrics saves renders outside the checkout.
+      - name: Copy renders into the repository
+        run: |
+          cp /metrics_renders/profile/stats.svg profile/stats.svg
+          cp /metrics_renders/profile/languages.svg profile/languages.svg
 
       - name: Commit stats
         run: |
