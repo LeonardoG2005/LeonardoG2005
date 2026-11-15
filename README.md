@@ -28,7 +28,7 @@
 
 - 🔍 Core interest in backend engineering and data-centric systems
 
-- 📚 I Independently study Machine Learning and Data Engineering
+- 📚 I Independently study Machine Learning, AI and Data Engineering
 
 - 🤝🏼 Open for Collaborations
   
