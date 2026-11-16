@@ -84,7 +84,6 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Golang" width="40" height="40"/></code>&nbsp;&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/></code>&nbsp;&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/></code>&nbsp;&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></code>&nbsp;&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" alt="seaborn" width="40" height="40"/></code>&nbsp;&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pug/pug-original.svg" alt="pug" width="40" height="40"/></code>&nbsp;&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" alt="fastify" width="40" height="40"/></code>&nbsp;&nbsp;
