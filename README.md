@@ -88,8 +88,15 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pug/pug-original.svg" alt="pug" width="40" height="40"/></code>&nbsp;&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" alt="fastify" width="40" height="40"/></code>&nbsp;&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" alt="power bi" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/miro/miro-original.svg" alt="miro" width="40" height="40"/></code>&nbsp;&nbsp;
+<code><img src="assets/progress-openedge-icon.svg" alt="Progress OpenEdge" width="40" height="40"/></code>&nbsp;&nbsp;
 <br/>
-<img src="https://img.shields.io/badge/Progress_OpenEdge-5C2D91?style=for-the-badge&logo=progress&logoColor=white" />
 <br/>
 
 #
