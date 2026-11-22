@@ -18,7 +18,7 @@
  <img align="right" alt="coding" width="400" src="assets/daftpunktocat.gif">
 </div>
 
-> #### A fifth year Software Engineering student focused on building reliable, scalable software and modern web applications. I believe in producing more by combining broad, generalized knowledge with the right use of Artificial Intelligence.
+> #### A fifth year Software Engineering student focused on building reliable, scalable software and modern web applications. I believe in producing more by combining broad, generalized knowledge with the right use of AI workflows.
 <span style="font-size: 18px">
 
 <br>
